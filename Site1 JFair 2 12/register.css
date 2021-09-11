@@ -1,0 +1,149 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 741px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 920px;
+  height: 731px;
+  margin: -25px auto 0 -207px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 570px;
+  min-height: 477px;
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -574px 0 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  text-transform: none;
+  font-size: 2.25rem;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 40px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none none solid;
+  padding: 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 145px;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  width: 100%;
+  border-style: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 400;
+  background-image: none;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1rem;
+  font-style: normal;
+  width: 152px;
+  margin: 36px auto 0;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none none solid;
+  font-style: normal;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    width: 518px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 511px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.125rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 492px;
+    height: 554px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 404px;
+    min-height: 431px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 831px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 418px;
+    height: 418px;
+    margin-top: 35px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 356px;
+    min-height: 458px;
+    margin-top: -115px;
+    margin-bottom: 35px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 800px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 293px;
+    height: 303px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 305px;
+    min-height: 474px;
+    margin-top: -47px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 25px;
+  }
+}
